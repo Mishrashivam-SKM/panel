@@ -1,0 +1,14 @@
+{
+    "FESTIVE10": {
+      "type": "percentage",
+      "value": 10
+    },
+    "WELCOME500": {
+      "type": "flat",
+      "value": 500
+    },
+    "DIAMOND20": {
+      "type": "percentage",
+      "value": 20
+    }
+  }

@@ -1,0 +1,246 @@
+[
+  {
+    "id": "LUX001R",
+    "name": "Eternal Diamond Solitaire Ring",
+    "category": "Rings",
+    "price": 45000,
+    "description": "A timeless solitaire ring featuring a brilliant cut diamond in a classic prong setting. This elegant piece showcases exceptional craftsmanship with its clean lines and perfect proportions, making it the ideal choice for engagements and special occasions.",
+    "images": [
+      "https://images.pexels.com/photos/9953654/pexels-photo-9953654.jpeg",
+      "https://images.unsplash.com/photo-1742240439165-60790db1ee93",
+      "https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg"
+    ],
+    "defaultSpecs": {
+      "metal": "Gold",
+      "purity": "18K",
+      "weight": "3.2g",
+      "stone": "Diamond (VVS FG)"
+    },
+    "specifications": {
+      "productDetails": {
+        "note": "*Neck chain is not a part of the product and can be bought separately.",
+        "productCode": "026405-5705830",
+        "height": "21.5 mm",
+        "width": "20.8 mm",
+        "productWeight": "3.5 g"
+      },
+      "diamondDetails": {
+        "totalWeight": "0.52 Ct",
+        "totalNoOfDiamonds": 1
+      },
+      "metalDetails": {
+        "type": "18KT Gold",
+        "weight": "3.2 g"
+      },
+      "tags": ["Diamond Rings", "Engagement Rings", "Solitaire Rings", "Rs 40000 To Rs 50000"]
+    },
+    "variants": {
+      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 42000},
+      "Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 44000},
+      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/9953654/pexels-photo-9953654.jpeg", "price": 47000},
+      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 44000},
+      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 46000},
+      "Rose Gold with Diamond": {"image": "https://images.unsplash.com/photo-1742240439165-60790db1ee93", "price": 45000},
+      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 42000},
+      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 44000},
+      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/9953654/pexels-photo-9953654.jpeg", "price": 52000},
+      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 49000},
+      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 51000}
+    }
+  },
+  {
+    "id": "LUX002E",
+    "name": "Cascading Diamond Drop Earrings",
+    "category": "Earrings",
+    "price": 38000,
+    "description": "Elegant drop earrings featuring cascading diamonds that catch and reflect light beautifully. The sophisticated design creates movement and sparkle, perfect for formal events and special occasions.",
+    "images": [
+      "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg",
+      "https://images.unsplash.com/photo-1685524820989-5b822999d8db",
+      "https://images.pexels.com/photos/15264139/pexels-photo-15264139.jpeg"
+    ],
+    "defaultSpecs": {
+      "metal": "Gold",
+      "purity": "18K",
+      "weight": "4.1g",
+      "stone": "Diamond (VVS EF)"
+    },
+    "specifications": {
+      "productDetails": {
+        "productCode": "031129-9401527",
+        "height": "35.2 mm",
+        "width": "8.1 mm",
+        "productWeight": "4.3 g"
+      },
+      "diamondDetails": {
+        "totalWeight": "0.45 Ct",
+        "totalNoOfDiamonds": 14
+      },
+      "metalDetails": {
+        "type": "18KT Gold",
+        "weight": "4.1 g"
+      },
+      "tags": ["Diamond Earrings", "Drop Earrings", "Party Wear", "Rs 30000 To Rs 40000"]
+    },
+    "variants": {
+      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 35000},
+      "Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 37000},
+      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 40000},
+      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 37000},
+      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 39000},
+      "Rose Gold with Diamond": {"image": "https://images.unsplash.com/photo-1685524820989-5b822999d8db", "price": 38000},
+      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 35000},
+      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 37000},
+      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 45000},
+      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 42000},
+      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 44000}
+    }
+  },
+  {
+    "id": "LUX003N",
+    "name": "Royal Emerald Choker Necklace",
+    "category": "Necklaces",
+    "price": 85000,
+    "description": "A stunning choker necklace featuring premium emeralds in an intricate gold setting. This statement piece combines traditional craftsmanship with contemporary design, perfect for special occasions and formal events.",
+    "images": [
+      "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg",
+      "https://images.unsplash.com/photo-1732704141783-571c1105f38f",
+      "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg"
+    ],
+    "defaultSpecs": {
+      "metal": "Gold",
+      "purity": "18K",
+      "weight": "15.7g",
+      "stone": "Emerald (AAA)"
+    },
+    "specifications": {
+      "productDetails": {
+        "note": "*Neck chain is a part of the product.",
+        "productCode": "019983-4107771",
+        "height": "N/A",
+        "width": "18.5 mm",
+        "productWeight": "16.8 g"
+      },
+      "diamondDetails": {
+        "totalWeight": "1.20 Ct",
+        "totalNoOfDiamonds": 85
+      },
+      "metalDetails": {
+        "type": "18KT Gold",
+        "weight": "15.7 g"
+      },
+      "tags": ["Emerald Necklace", "Choker", "Bridal Jewellery", "Above Rs 50000"]
+    },
+    "variants": {
+      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 82000},
+      "Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 88000},
+      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 87000},
+      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 84000},
+      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 90000},
+      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 85000},
+      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 82000},
+      "Rose Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 88000},
+      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 95000},
+      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 92000},
+      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 98000}
+    }
+  },
+  {
+    "id": "LUX004B",
+    "name": "Luxe Diamond Tennis Bracelet",
+    "category": "Bracelets",
+    "price": 65000,
+    "description": "An exquisite tennis bracelet featuring a continuous line of perfectly matched diamonds. This timeless piece showcases exceptional brilliance and fire, making it perfect for both everyday elegance and special occasions.",
+    "images": [
+      "https://images.unsplash.com/photo-1663568675454-ecd65012d8f0",
+      "https://images.unsplash.com/photo-1570891836868-673ee4818f81",
+      "https://images.pexels.com/photos/9987796/pexels-photo-9987796.jpeg"
+    ],
+    "defaultSpecs": {
+      "metal": "Gold",
+      "purity": "18K",
+      "weight": "8.3g",
+      "stone": "Diamond (VS FG)"
+    },
+    "specifications": {
+      "productDetails": {
+        "productCode": "045521-3319875",
+        "height": "N/A",
+        "width": "3.5 mm",
+        "productWeight": "8.9 g"
+      },
+      "diamondDetails": {
+        "totalWeight": "2.10 Ct",
+        "totalNoOfDiamonds": 55
+      },
+      "metalDetails": {
+        "type": "18KT Gold",
+        "weight": "8.3 g"
+      },
+      "tags": ["Tennis Bracelet", "Diamond Bracelet", "Luxury Gifting", "Above Rs 50000"]
+    },
+    "variants": {
+      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 62000},
+      "Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 64000},
+      "White Gold with Diamond": {"image": "https://images.unsplash.com/photo-1663568675454-ecd65012d8f0", "price": 67000},
+      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 64000},
+      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 66000},
+      "Rose Gold with Diamond": {"image": "https://images.unsplash.com/photo-1570891836868-673ee4818f81", "price": 65000},
+      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 62000},
+      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 64000},
+      "Platinum with Diamond": {"image": "https://images.unsplash.com/photo-1663568675454-ecd65012d8f0", "price": 75000},
+      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 72000},
+      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 74000}
+    }
+  },
+  {
+    "id": "LUX005P",
+    "name": "Classic Heart Diamond Pendant",
+    "category": "Pendants",
+    "price": 28000,
+    "description": "A romantic heart-shaped pendant featuring a brilliant diamond center surrounded by smaller accent stones. This delicate piece symbolizes love and affection, perfect for gifting or personal collection.",
+    "images": [
+      "https://images.pexels.com/photos/10983782/pexels-photo-10983782.jpeg",
+      "https://images.pexels.com/photos/5370705/pexels-photo-5370705.jpeg",
+      "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg"
+    ],
+    "defaultSpecs": {
+      "metal": "Gold",
+      "purity": "18K",
+      "weight": "2.9g",
+      "stone": "Diamond (VS GH)"
+    },
+    "specifications": {
+      "productDetails": {
+        "note": "*Neck chain is not a part of the product and can be bought separately.",
+        "productCode": "053301-8174562",
+        "height": "14.6 mm",
+        "width": "12.1 mm",
+        "productWeight": "3.1 g"
+      },
+      "diamondDetails": {
+        "totalWeight": "0.25 Ct",
+        "totalNoOfDiamonds": 13
+      },
+      "metalDetails": {
+        "type": "18KT Gold",
+        "weight": "2.9 g"
+      },
+      "tags": ["Heart Pendant", "Diamond Pendants", "Gifts for Her", "Rs 20000 To Rs 30000"]
+    },
+    "variants": {
+      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 25000},
+      "Gold with Emerald": {"image": "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg", "price": 27000},
+      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/10983782/pexels-photo-10983782.jpeg", "price": 30000},
+      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 27000},
+      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 29000},
+      "Rose Gold with Diamond": {"image": "https://images.pexels.com/photos/5370705/pexels-photo-5370705.jpeg", "price": 28000},
+      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 25000},
+      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg", "price": 27000},
+      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/10983782/pexels-photo-10983782.jpeg", "price": 35000},
+      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 32000},
+      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 34000}
+    }
+  }
+]
+

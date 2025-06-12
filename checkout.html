@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - BlueStone Clone</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="main-header">
+            <div class="container" style="justify-content: space-between;">
+                <div class="logo"><a href="/"><img src="images/bluestone-logo.webp" alt="BlueStone Logo"></a></div>
+                <div class="secure-checkout-badge"><i class="fa-solid fa-lock"></i><span>100% SECURE</span></div>
+            </div>
+        </div>
+    </header>
+
+    <main class="checkout-page-main">
+        <div class="container checkout-container">
+            <div class="checkout-form-column">
+                <section class="checkout-section">
+                    <h2>Shipping Address</h2>
+                    <form id="shipping-form" class="checkout-form">
+                        <input type="text" id="shipping-name" placeholder="Full Name" required>
+                        <input type="text" placeholder="Address" required>
+                        <div class="form-row">
+                            <input type="text" placeholder="City" required>
+                            <input type="text" placeholder="Pincode" required>
+                        </div>
+                        <input type="tel" placeholder="Mobile Number" required>
+                    </form>
+                </section>
+                <section class="checkout-section">
+                    <h2>Payment Method</h2>
+                    <div class="payment-options">
+                        <label><input type="radio" name="payment" checked> Credit/Debit Card</label>
+                        <label><input type="radio" name="payment"> UPI</label>
+                        <label><input type="radio" name="payment"> Net Banking</label>
+                    </div>
+                </section>
+            </div>
+
+            <div class="checkout-summary-column">
+                <aside class="order-summary">
+                    <h3>Your Order</h3>
+                    <div id="checkout-items-summary"></div>
+                    <hr>
+                    <div class="summary-row"><span>Subtotal</span><span id="summary-subtotal">₹0</span></div>
+                    <div class="summary-row" id="summary-discount-row" style="display: none;"><span>Discount</span><span id="summary-discount"></span></div>
+                    <div class="summary-row" id="summary-addons-row" style="display: none;"><span>Add-on Services</span><span id="summary-addons"></span></div>
+                    <!-- NEW: Detailed Charges -->
+<div class="summary-row" id="summary-making-charges-row" style="display: none;">
+    <span>Making Charges</span>
+    <span id="summary-making-charges"></span>
+</div>
+<div class="summary-row" id="summary-gst-row" style="display: none;">
+    <span>GST (3%)</span>
+    <span id="summary-gst"></span>
+</div>
+                    <hr>
+                    <div class="summary-row total"><span>Grand Total</span><span id="summary-grand-total">₹0</span></div>
+                    <button id="place-order-btn" class="btn btn-primary checkout-btn">Place Order</button>
+                </aside>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/checkout.js" defer></script>
+</body>
+</html>

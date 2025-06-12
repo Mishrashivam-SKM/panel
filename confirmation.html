@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Confirmed - BlueStone Clone</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="main-header">
+            <div class="container" style="justify-content: center;">
+                <div class="logo"><a href="/"><img src="images/bluestone-logo.webp" alt="BlueStone Logo"></a></div>
+            </div>
+        </div>
+    </header>
+    <main class="confirmation-page-main">
+        <div class="confirmation-container">
+            <div class="confirmation-icon"><i class="fa-solid fa-check-circle"></i></div>
+            <h1>Thank You For Your Order!</h1>
+            <p>Your order has been placed successfully. A confirmation email has been sent.</p>
+            <p>You will be redirected to the homepage shortly.</p>
+            <a href="index.html" class="btn btn-primary">Continue Shopping</a>
+        </div>
+    </main>
+    <script>
+        // Redirect to homepage after 5 seconds
+        setTimeout(() => {
+            window.location.href = 'index.html';
+        }, 5000);
+    </script>
+</body>
+</html>
