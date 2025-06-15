@@ -2,13 +2,13 @@
   {
     "id": "LUX001R",
     "name": "Eternal Diamond Solitaire Ring",
-    "category": "Rings",
+    "category":"Rings",
     "price": 45000,
     "description": "A timeless solitaire ring featuring a brilliant cut diamond in a classic prong setting. This elegant piece showcases exceptional craftsmanship with its clean lines and perfect proportions, making it the ideal choice for engagements and special occasions.",
     "images": [
-      "https://images.pexels.com/photos/9953654/pexels-photo-9953654.jpeg",
-      "https://images.unsplash.com/photo-1742240439165-60790db1ee93",
-      "https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg"
+      "https://kinclimg6.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIRS0267R07_YAA18SOG60025XXXX_ABCD00-PICS-00001-1024-68683.png",
+      "https://kinclimg8.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIRS0267R07_YAA18SOG60025XXXX_ABCD00-BP-PICS-00000-1024-68683.png",
+      "https://kinclimg1.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIRS0267R07_YAA18SOG60025XXXX_ABCD00-PICS-00000-1024-68683.png"
     ],
     "defaultSpecs": {
       "metal": "Gold",
@@ -35,17 +35,17 @@
       "tags": ["Diamond Rings", "Engagement Rings", "Solitaire Rings", "Rs 40000 To Rs 50000"]
     },
     "variants": {
-      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 42000},
-      "Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 44000},
-      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/9953654/pexels-photo-9953654.jpeg", "price": 47000},
-      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 44000},
-      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 46000},
-      "Rose Gold with Diamond": {"image": "https://images.unsplash.com/photo-1742240439165-60790db1ee93", "price": 45000},
-      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 42000},
-      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 44000},
-      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/9953654/pexels-photo-9953654.jpeg", "price": 52000},
-      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 49000},
-      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 51000}
+      "Gold with Ruby": {"image": "https://kinclimg5.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BM-R02_YAA18SYRUXXXXXXXX_ABCD00-PICS-00002-1024-64633.png", "price": 42000},
+      "Gold with Emerald": {"image": "https://kinclimg8.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPO0723R21_YAA18SYEMXXXXXXXX_ABCD00-PICS-00002-1024-61468.png", "price": 44000},
+      "White Gold with Diamond": {"image": "https://kinclimg9.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISP0584R08_WAA18SOG60030XXXX_ABCD00-PICS-00001-1024-65655.png", "price": 47000},
+      "White Gold with Ruby": {"image": "https://www.rosecjewels.co.uk/cdn/shop/files/RCRI0721123277_WOG.jpg?v=1726898655&width=2000", "price": 44000},
+      "White Gold with Emerald": {"image": "https://images.squarespace-cdn.com/content/v1/52dd8314e4b057d0ae9cdc02/1579572542878-M0Y3CN303AADSNUSFXUC/Emerald+Cocktail+Ring6.Jpg?format=1000w", "price": 46000},
+      "Rose Gold with Diamond": {"image": "https://kinclimg9.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIRS0680R34_RAA18SOG60030XXXX_ABCD00-PICS-00002-1024-67097.png", "price": 45000},
+      "Rose Gold with Ruby": {"image": "https://media.angara.com/ring/sr2272r/5mm-aaa-ruby-rose-gold-ring.jpg?width=960&quality=85&auto=webp", "price": 42000},
+      "Rose Gold with Emerald": {"image": "https://media.angara.com/ring/sr1480e/6x4mm-aaaa-emerald-rose-gold-ring.jpg?width=960&quality=85&auto=webp", "price": 44000},
+      "Platinum with Diamond": {"image": "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BVHJ0175R12_PAA95DIG4XXXXXXXX_ABCD00-PICS-00001-1024-83534.png", "price": 52000},
+      "Platinum with Ruby": {"image": "https://www.juwelenschmiede.de/media/k2/items/cache/681a23d9bda3cc6608e358bb4db90e3a_L.png", "price": 49000},
+      "Platinum with Emerald": {"image": "https://lilyarkwright.com/cdn/shop/products/FlorenceEmeraldEmeraldLabDiamondEngagementRingWhiteGoldSolitaireLilyArkwright2_738510e6-d9a6-4c97-82de-b2bdeb75ddbd_800x.jpg?v=1698932055", "price": 51000}
     }
   },
   {
@@ -55,9 +55,9 @@
     "price": 38000,
     "description": "Elegant drop earrings featuring cascading diamonds that catch and reflect light beautifully. The sophisticated design creates movement and sparkle, perfect for formal events and special occasions.",
     "images": [
-      "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg",
-      "https://images.unsplash.com/photo-1685524820989-5b822999d8db",
-      "https://images.pexels.com/photos/15264139/pexels-photo-15264139.jpeg"
+      "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIVS0052D04_YAA18DIG6XXXXXXXX_ABCD00-PICS-00004-1024-16440.png",
+      "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIVS0052D04_YAA18DIG6XXXXXXXX_ABCD00-PICS-00000-1024-16440.png",
+      "https://kinclimg3.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIVS0052D04_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-16440.png"
     ],
     "defaultSpecs": {
       "metal": "Gold",
@@ -83,29 +83,29 @@
       "tags": ["Diamond Earrings", "Drop Earrings", "Party Wear", "Rs 30000 To Rs 40000"]
     },
     "variants": {
-      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 35000},
-      "Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 37000},
-      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 40000},
-      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 37000},
-      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 39000},
-      "Rose Gold with Diamond": {"image": "https://images.unsplash.com/photo-1685524820989-5b822999d8db", "price": 38000},
-      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 35000},
-      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 37000},
-      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 45000},
-      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 42000},
-      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 44000}
+      "Gold with Ruby": {"image": "https://media.angara.com/earrings/se1060gd/12x8mm-aaaa-garnet-yellow-gold-earrings.jpg?width=960&quality=85&auto=webp", "price": 35000},
+      "Gold with Emerald": {"image": "https://media.angara.com/earrings/lse1084ed/8x6mm-labgrown-lab-grown-emerald-18k-yellow-gold-earrings_200.jpg?width=960&quality=85&auto=webp", "price": 37000},
+      "White Gold with Diamond": {"image": "https://media.angara.com/earrings/se0976d/4mm-gvs2-diamond-white-gold-earrings.jpg?width=960&quality=85&auto=webp", "price": 40000},
+      "White Gold with Ruby": {"image": "https://media.angara.com/earrings/se1060gd/12x8mm-aaaa-garnet-white-gold-earrings.jpg?width=960&quality=85&auto=webp", "price": 37000},
+      "White Gold with Emerald": {"image": "https://media.angara.com/earrings/lse1084ed/8x6mm-labgrown-lab-grown-emerald-18k-white-gold-earrings_200.jpg?width=960&quality=85&auto=webp", "price": 39000},
+      "Rose Gold with Diamond": {"image": "https://media.angara.com/earrings/se0976d/4mm-gvs2-diamond-rose-gold-earrings.jpg?width=960&quality=85&auto=webp", "price": 38000},
+      "Rose Gold with Ruby": {"image": "https://media.angara.com/earrings/se1060gd/12x8mm-aaaa-garnet-rose-gold-earrings.jpg?width=960&quality=85&auto=webp", "price": 35000},
+      "Rose Gold with Emerald": {"image": "https://media.angara.com/earrings/lse1084ed/8x6mm-labgrown-lab-grown-emerald-rose-gold-earrings_200.jpg?width=960&quality=85&auto=webp", "price": 37000},
+      "Platinum with Diamond": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDBjZRITS49fe_WeMjSz8_cS7bT5nCRWM2cGsZXGJ4OX71koHfwCXm8V1lOIOUMVGimu4blkAsCu9ZSwsZCFjgG21ATnhRNuAzCuar5UFeh5ehSWqCsnNgQQ", "price": 45000},
+      "Platinum with Ruby": {"image": "https://media.angara.com/earrings/se1001rd/5mm-aa-ruby-white-gold-earrings.jpg?width=960&quality=85&auto=webp", "price": 42000},
+      "Platinum with Emerald": {"image": "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISW0965S05_WAA18DIG4SYEMXXXX_ABCD00-PICS-00001-1024-88394.png", "price": 44000}
     }
   },
   {
     "id": "LUX003N",
-    "name": "Royal Emerald Choker Necklace",
+    "name": "Royal Diamond Choker Necklace",
     "category": "Necklaces",
     "price": 85000,
     "description": "A stunning choker necklace featuring premium emeralds in an intricate gold setting. This statement piece combines traditional craftsmanship with contemporary design, perfect for special occasions and formal events.",
     "images": [
-      "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg",
-      "https://images.unsplash.com/photo-1732704141783-571c1105f38f",
-      "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg"
+      "https://tyaani.com/cdn/shop/files/OSNECK00080FRONT.jpg?v=1745914405&width=1500",
+      "https://tyaani.com/cdn/shop/products/OSNECK00080MODEL.jpg?v=1745914405&width=1500",
+      "https://tyaani.com/cdn/shop/products/OSNECK00080OSNKER00080MODELSET.jpg?v=1745914405&width=1500"
     ],
     "defaultSpecs": {
       "metal": "Gold",
@@ -132,17 +132,17 @@
       "tags": ["Emerald Necklace", "Choker", "Bridal Jewellery", "Above Rs 50000"]
     },
     "variants": {
-      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 82000},
-      "Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 88000},
-      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 87000},
-      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 84000},
-      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 90000},
-      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 85000},
-      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 82000},
-      "Rose Gold with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 88000},
-      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 95000},
-      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 92000},
-      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/21235147/pexels-photo-21235147.jpeg", "price": 98000}
+      "Gold with Ruby": {"image": "https://kinclimg1.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIJP0742N01_RAA18DIG6SYRUSPIC_ABCD00-PICS-00003-1024-72021.png", "price": 82000},
+      "Gold with Emerald": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_laQp700DufDwibEWMpWUHHUpPfHUzHuMiHxi1YpTMhZd-RpOf3jagoIMtw0QoEGLkwj54BRY38Gpww2j69blORQ4_wI29Nf7Y4vyoHHR7LyX_cK_bVjYKg", "price": 88000},
+      "White Gold with Emerald": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxk7et5TlHu8MvigvHn-xP0Z7svBvI7E-PojAAJF35kCRnJTegewQY794Q1k7GXt8dikf1vh5FDvmXEGDEP9G0HDV56lG4tinm7VGJIGzQQPuIT1xvfYNx89q0IAJraTRWHBFSLg4&usqp=CAc", "price": 87000},
+      "White Gold with Ruby": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPUb5kAtctxY9YwZtDqUxxjUYB4mR4kJKlUWM4pQxSiEI2cc41nf6Tmvt61nBO6FPp1Gv4E8OOao0nWWlnljOpT8potvJ_GEh1gR96VHBlIl0FxkMY7UxY", "price": 84000},
+      "White Gold with Diamond": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFnaYPA8YNzH4Khje03RRc5b9RiKqLx7EcCcgGXDZ5uhcK_jX30dO9hoLSGOuiOURyaK6WOyyOFSdmUukLQgO2mnwxi7b8QEyzHwx8RUTx_Cvc8lfKFxL0hHd4GRHZU-Twt8OYanScMQ&usqp=CAc", "price": 90000},
+      "Rose Gold with Emerald": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTs7Gy46dEVHJxMtDzX-U0kEz-1_B1K2Lj2N9pt15qhi01bonWqEdE4y7fCmEJ3axTJP-wb5zORYixUlYIFGQ_46Syt_eTWBvv2jMFEB97YsItReZ5jpte5", "price": 85000},
+      "Rose Gold with Ruby": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT63OtB03r12iifpgHzaCzPEDjLnt11VOmwmAeI1zqKUSp_NHmI4fCOK_PV0XImqTOicFgChjavg_NmHxnCxzBanna_mCqXhyJKii6eUUCU&usqp=CAc", "price": 82000},
+      "Rose Gold with Diamond": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvsMLQilxIKcLlUZwis4FqsnDA_rkeyjaYBYJtDUDj9EWxE4ib_sSqU5uZHlo0IPL8AusgpeqPCQJB1apoD6muxKAjg6_VjjhIiecAlvn-TO5xsGdaZJJfSEjdf4af4Kwv0_jc9NZnpw&usqp=CAc", "price": 88000},
+      "Platinum with Emerald": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpWK55Aih4OfUFpBAVbzsk0BZ_-5cDwgP84_JEQ2c76dAgnoIqimtIFjTPCyYz4yTBXG9zhqIUZc-XjOxU59rSM-x73BvZUzDF5cpL3d7x4fjK-ZAwIsBb-A", "price": 95000},
+      "Platinum with Ruby": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcoVMJnoRbD-lXIRfpwBLJpwYTGFeUy4R0z_b8pOWo28ZY9O44IX4V56uzPrSqDH-XHRihZ3stjArLVmXUCSVD9xKoUXU416XT9mb1DIpT5ZHWIgjnWiBfuHDw1iEqM2v3e-gPdQ&usqp=CAc", "price": 92000},
+      "Platinum with Diamond": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTh2y1cVDTTYQafBZq8JL_7VsDiJB_4T6O5pUw6HOLXP3YORpMmTf-GgOwJRZtI5GWXAsFfT0GEoriEmRuYU7RSr6GvzuxfylELKvMNYDxOOAz8PJO0oe3hMb2CykRU84RGy0z60r4&usqp=CAc", "price": 98000}
     }
   },
   {
@@ -180,17 +180,17 @@
       "tags": ["Tennis Bracelet", "Diamond Bracelet", "Luxury Gifting", "Above Rs 50000"]
     },
     "variants": {
-      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 62000},
-      "Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 64000},
-      "White Gold with Diamond": {"image": "https://images.unsplash.com/photo-1663568675454-ecd65012d8f0", "price": 67000},
-      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 64000},
-      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 66000},
-      "Rose Gold with Diamond": {"image": "https://images.unsplash.com/photo-1570891836868-673ee4818f81", "price": 65000},
-      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 62000},
-      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg", "price": 64000},
-      "Platinum with Diamond": {"image": "https://images.unsplash.com/photo-1663568675454-ecd65012d8f0", "price": 75000},
-      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 72000},
-      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 74000}
+      "Gold with Ruby": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSm7M4Fw7F1qGbX24WbntCp5Hi8WJU5rjmKCdqK_XTI3GzpJIXmDVmtqa03MSqO-9ntRgk3OiJb3o8Tl6iJU8WuEJVmak3ocUqpcFgmN6JP7mhBtz4PtDMfYcD84QU4ASdCv6Q5urfdOBM&usqp=CAc", "price": 62000},
+      "Gold with Emerald": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSU4WN86_puExNgzgqveexaz11yfPAq5MJW7gI19Th2ZyK00jMHTk1_LzB2keZKhGBjGJ0GfU_Jb2f3snW92qIoNwGGi2LErAcundwUPECgwWN7zWyeh0XqQQ", "price": 64000},
+      "White Gold with Diamond": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRb7XCBpFA2MorB2fpaeWoUH8Bt2fblvWpGK9DwPBC1rX1l4af9VQdAMjLw5MzzPfc8ZHtKn-SAvZxDO0AXlvQL62SLAK4s51trc31zbGmINbTxghzjqMR2Lhyy5ZxGhVZu-6683g&usqp=CAc", "price": 67000},
+      "White Gold with Ruby": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIDbOFvW9r1J1fpbFaxz9bFDmU0mEa5HbHTJVC2c9cmoZWJDPKulsRJtms1Kx0B9Tl0vdKY3GpBB0gBTujsiDkjn-bmVpwatoFFj5criRpLW4F8mnxIk6S6w", "price": 64000},
+      "White Gold with Emerald": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHkha9wUuuzhMu5GdD58apoFPYkQYYkviF9NiuZAyhJuY2ETDcC4NXKwur-s5YIlGPVabPr36xtLP4DumG4yVrwBj4cHWlHj46LMLw7dkjSPn0cUuddO8Zot7sOW_sLcjP6MtRRg&usqp=CAc", "price": 66000},
+      "Rose Gold with Diamond": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ86NtyBhW8g3X60K7oPBl5vAT3d9IxwNFjEYtnI5gPL7bSdj_vE6WFH-PPkTxmiEjvGjYL0i_YgwJTNggKVUXvtxAkIibbGfCcYochhViEzO36LHbCePxS_gCzdVXol100I6vusVnt&usqp=CAc", "price": 65000},
+      "Rose Gold with Ruby": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDmbHnjMRpsdaukJ4Fc9DIcpNHeF4rPHDIjsX7qM-pS7lWo8fZsDZIS42C8iJ6gvsRS8amZMbfIJhE7m-U_Jx-Hxe6BvFPioUnWgVsfMxQ&usqp=CAc", "price": 62000},
+      "Rose Gold with Emerald": {"image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTOngDTgcSDHO8cHsD3OHuBNqeAlKoip71YDG8Xn97ILgYEyIZyGeBIJGjof4Y_3kLsk7HsaiTfAeX1qM6YtCsuyFNDta9RlfDk2RLatVkCrT-bijI11HmpcTJQjk3WdA8oD4xfGQ2EwQ&usqp=CAc", "price": 64000},
+      "Platinum with Diamond": {"image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTR3QqQYuOcIYMt_c--zLFuRyT8h3muMXejOq2iZP_QghdoLXEtG02YD8AobaDi3rx8iV_YK6WSR1psk_hTYQ9ndvVq7UEBPrPUzrj8AjPL06HT08GsSy_91cmbv7pCz_Qilfgnadg&usqp=CAc", "price": 75000},
+      "Platinum with Ruby": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQKvbqjTiDa5KntvuxeA9N5zHOHmHHrjwsUXaJTmhkmn8tKeyqRa32xmeB9-R0aOP_r7BTdLsDBQ6zG5oVQbRbbZDTYLExN7OjtdYEvw_iK8pw1m08CFRbWX5rukaWBEN6zr3fyT1c&usqp=CAc", "price": 72000},
+      "Platinum with Emerald": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHkha9wUuuzhMu5GdD58apoFPYkQYYkviF9NiuZAyhJuY2ETDcC4NXKwur-s5YIlGPVabPr36xtLP4DumG4yVrwBj4cHWlHj46LMLw7dkjSPn0cUuddO8Zot7sOW_sLcjP6MtRRg&usqp=CAc", "price": 74000}
     }
   },
   {
@@ -200,9 +200,9 @@
     "price": 28000,
     "description": "A romantic heart-shaped pendant featuring a brilliant diamond center surrounded by smaller accent stones. This delicate piece symbolizes love and affection, perfect for gifting or personal collection.",
     "images": [
-      "https://images.pexels.com/photos/10983782/pexels-photo-10983782.jpeg",
-      "https://images.pexels.com/photos/5370705/pexels-photo-5370705.jpeg",
-      "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg"
+      "https://kinclimg1.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIMM0063P13_YAA18DIG6XXXXXXXX_ABCD00-PICS-00004-1024-34372.png",
+      "https://kinclimg7.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIMM0063P13_YAA18DIG6XXXXXXXX_ABCD00-PICS-00000-1024-34372.png",
+      "https://kinclimg0.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIMM0063P13_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-34372.png"
     ],
     "defaultSpecs": {
       "metal": "Gold",
@@ -229,17 +229,17 @@
       "tags": ["Heart Pendant", "Diamond Pendants", "Gifts for Her", "Rs 20000 To Rs 30000"]
     },
     "variants": {
-      "Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 25000},
-      "Gold with Emerald": {"image": "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg", "price": 27000},
-      "White Gold with Diamond": {"image": "https://images.pexels.com/photos/10983782/pexels-photo-10983782.jpeg", "price": 30000},
-      "White Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 27000},
-      "White Gold with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 29000},
-      "Rose Gold with Diamond": {"image": "https://images.pexels.com/photos/5370705/pexels-photo-5370705.jpeg", "price": 28000},
-      "Rose Gold with Ruby": {"image": "https://images.unsplash.com/photo-1667013829921-b1c1719a0cfa", "price": 25000},
-      "Rose Gold with Emerald": {"image": "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg", "price": 27000},
-      "Platinum with Diamond": {"image": "https://images.pexels.com/photos/10983782/pexels-photo-10983782.jpeg", "price": 35000},
-      "Platinum with Ruby": {"image": "https://images.unsplash.com/photo-1667013878607-908d67e88488", "price": 32000},
-      "Platinum with Emerald": {"image": "https://images.unsplash.com/photo-1732704141783-571c1105f38f", "price": 34000}
+      "Gold with Ruby": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwXjpW3Ay8MDFU-yA7onDDT8pOfz2U80WGAmneK9vXzRKRp0uNNd81KTBavGO5nY-1WAfSTjB_P8ze1ZkoPNSEW0YhZx9HA7fyTJlfsuPfkoALzKAoJy2V0WLQ", "price": 25000},
+      "Gold with Emerald": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJM7wPOLn_ppQUiiJeYGauC6qZU86mvnTnJM6UysnXX_BskO0loPs-OLPctogzEsORTcaeGkX8dne5NfUTGIFHx68I7H15WhsOCXo5tordEGBHhN2oFuA6", "price": 27000},
+      "White Gold with Diamond": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFnaYPA8YNzH4Khje03RRc5b9RiKqLx7EcCcgGXDZ5uhcK_jX30dO9hoLSGOuiOURyaK6WOyyOFSdmUukLQgO2mnwxi7b8QEyzHwx8RUTx_Cvc8lfKFxL0hHd4GRHZU-Twt8OYanScMQ&usqp=CAc", "price": 30000},
+      "White Gold with Ruby": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5OFH8LwfJgFhkNZmkEs57rDH4WFHjmCRGPjbqRzZqOPgqgTq_T9dosvtU8R30OK2qj3u_1Go8GoS_vU2J9z1PdeX6RwmwKNBPyVxL2vqJxzeo9jlziasOaA", "price": 27000},
+      "White Gold with Emerald": {"image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgcgNcpXvojVKvZ8K2vl0qpT9L3OqrjvV1hFwe9-yeq7YlJBFZRK7gCyzJFg5TT1tReulvh_0CObSYhRtd0mbLD9ZGvhddK5dkbEnd48L4JOsi0OTAmZKGJb0UperZFAFVnQVcPw&usqp=CAc", "price": 29000},
+      "Rose Gold with Diamond": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_-a7m91_dddIW39T2GiL9ay7wBJIOXy1EKlwq0bInbMXF7hJeL6JMZtOHYHvBwPTn8Rpdn4_TThK5W0AMd4H43Ukz7GzFqUmnvTw2qCDTnw5DmfmBbTWmCoUqv1t5ogzBwr1Q8c-0yA&usqp=CAc", "price": 28000},
+      "Rose Gold with Ruby": {"image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8vb1X2yLNLK6Hyw8jXEVO6ks-NZc8_mp_m4HIft-lmcOyZh2S8FMBqaRWuMaxHNV76SEa2gxw9qB4LMZWE2OvHlGTEcK28chpGE3oe0QP5Mu_y5lG7cp1YA", "price": 25000},
+      "Rose Gold with Emerald": {"image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5z7lIVnNRrYE4dtmrXjO5BS_Giax4HMcN4IjlfEjPmY7IkZGa-i8WFD5lJJU34LHaGeXEGhzmBToexibX9JYa_ud-_Ub6BU8JWxPh90bw6McMFCPqTiMH_w", "price": 27000},
+      "Platinum with Diamond": {"image": "https://kinclimg0.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIVS0001P07_WAA18DIG6XXXXXXXX_ABCD00-PICS-00004-1024-34874.png", "price": 35000},
+      "Platinum with Ruby": {"image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrMnDAeCGXd5-sKO8hhz4QmOAzyBfDx2bCplqbKFYWxxwxti2xa1xk_tPJn_gwU-Ui4OvpvSu8XY0ligma1T47haug7TLPeu24Vuvdwrm3rw-o8ahc_u7b", "price": 32000},
+      "Platinum with Emerald": {"image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgcgNcpXvojVKvZ8K2vl0qpT9L3OqrjvV1hFwe9-yeq7YlJBFZRK7gCyzJFg5TT1tReulvh_0CObSYhRtd0mbLD9ZGvhddK5dkbEnd48L4JOsi0OTAmZKGJb0UperZFAFVnQVcPw&usqp=CAc", "price": 34000}
     }
   }
 ]
