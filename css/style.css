@@ -79,7 +79,7 @@ header {
     transition: background-color 0.3s;
 }
 .toggle-form-btn.active {
-    background-color: #00437a;
+    background-color: #001e38;
     color: white;
 }
 .auth-form {
@@ -189,7 +189,8 @@ header {
 
 /* Main Navigation */
 .main-nav {
-    background-color: #00437a;
+    background-color: #001e38;
+    display: block;
     /* Primary Blue */
 }
 
@@ -285,7 +286,7 @@ header {
 }
 
 .slider-nav .dot.active {
-    background-color: #00437a;
+    background-color: #001e38;
     /* Primary Blue */
 }
 
@@ -358,7 +359,7 @@ header {
     z-index: 2;
     /* Sits on top of the video container */
     text-align: center;
-    color: #00437a;
+    color: #001e38;
     /* Using Primary Blue from our style guide */
 }
 
@@ -386,23 +387,23 @@ header {
 
 .category-item {
     text-decoration: none;
-    color: #555555;
+    color: #BFB9BD;
     text-align: center;
     transition: transform 0.2s ease;
 }
 
-.category-item:hover {
-    transform: translateY(-4px);
+.category-item:hover img {
+    box-shadow: 2px 2px 5px 3px rgba(221, 197, 197, 0.25);
 }
 
 .category-item img {
-    background-color: #f5f5f5;
-    border-radius: 50%;
+    background: #FFF8F9;
+    border-radius: 24px;
+    box-shadow: 2px 2px 5px 0px rgba(221, 197, 197, 0.25);
+    border: 0.3px solid rgba(221, 197, 197, 0.5);
+    transition: all .5s ease;
     width: 100%;
     max-width: 120px;
-    /* Control max size */
-    margin-bottom: 10px;
-    border: 1px solid #eee;
 }
 
 .category-item span {
@@ -413,7 +414,7 @@ header {
 /* --- Gold Mine Plan Banner --- */
 .promo-banner {
     margin-top: 2rem;
-    background-color: #fff0f1;
+    background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 10%, rgb(246, 194, 203) 40%, rgb(246, 194, 203) 60%, rgba(255, 255, 255, 0) 90%);
     /* A light pinkish hue */
     padding: 20px 0;
     width: 100%;
@@ -423,6 +424,7 @@ header {
 
 /* .promo-container {
 } */
+
 .promo-text {
     font-size: 16px;
     color: #333;
@@ -526,7 +528,7 @@ header {
     align-items: center;
     text-align: center;
     text-decoration: none;
-    background-color: #fff;
+    background-color: #FEEEF1;
     padding: 30px 20px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
@@ -542,17 +544,19 @@ header {
 .promo-card img {
     margin-bottom: 20px;
     height: 70px;
+    border-radius: 0.5rem;
 }
 
 .promo-card h3 {
     font-size: 18px;
-    color: #222;
+    color: #9D7891;
     margin: 0 0 10px 0;
+    font-style:unset;
 }
 
 .promo-card p {
     font-size: 14px;
-    color: #555;
+    color: #927D7D;
     line-height: 1.5;
     margin: 0;
 }
@@ -717,16 +721,16 @@ header {
 /* --- Footer Styling (for your custom HTML) --- */
 
 .site-footer-v2 {
-    background-color: #00437a;
+    background-color: #272b65;
     /* Primary Blue */
-    color: white;
+    color: #9babc4;
     font-family: 'Lato', sans-serif;
 }
 
 /* --- Top Section --- */
 .footer-top {
     padding: 60px 15px;
-    border-bottom: 1px solid #005a9e;
+    border-bottom: 1px solid #272b65;
     /* Slightly lighter blue for separation */
 }
 
@@ -749,7 +753,7 @@ header {
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 20px;
-    color: #fff;
+    color: #9babc4;
     letter-spacing: 0.5px;
 }
 
@@ -760,7 +764,7 @@ header {
 }
 
 .footer-column ul li a {
-    color: #ccc;
+    color: #9babc4;
     text-decoration: none;
     font-size: 14px;
     line-height: 2;
@@ -772,11 +776,14 @@ header {
 }
 
 .footer-app-download {
+    background-color: #15184d;
     flex: 1;
     /* Takes up 1/4 of the space */
     display: flex;
     align-items: center;
     gap: 20px;
+    padding: 3rem;
+    margin-right: 0;
 }
 
 .footer-app-download h4 {
@@ -785,7 +792,7 @@ header {
 }
 
 .footer-app-download p {
-    color: #ccc;
+    color: #9babc4;
     font-size: 14px;
     line-height: 1.6;
     margin-bottom: 20px;
@@ -806,7 +813,6 @@ header {
 
 /* --- Bottom Section --- */
 .footer-bottom {
-    background-color: #00335e;
     /* Darker Blue */
     padding: 30px 15px;
 }
@@ -1090,7 +1096,7 @@ header {
 }
 
 .mega-menu-column h4 {
-    color: #00437a;
+    color: #001e38;
     font-size: 14px;
     margin: 0 0 15px 0;
     text-transform: uppercase;
@@ -1175,7 +1181,7 @@ header {
         background: none;
         border: none;
         font-size: 24px;
-        color: #00437a;
+        color: #001e38;
         /* BlueStone Blue */
         cursor: pointer;
     }
@@ -1418,7 +1424,7 @@ header {
 .product-card-details .price {
     font-size: 18px;
     font-weight: 700;
-    color: #00437a;
+    color: #001e38;
     margin: 0;
 }
 
@@ -1489,7 +1495,7 @@ header {
 
 .thumbnail-container img.active,
 .thumbnail-container img:hover {
-    border-color: #00437a;
+    border-color: #001e38;
 }
 
 /* Product Details */
@@ -1508,7 +1514,7 @@ header {
 .price-section .current-price {
     font-size: 24px;
     font-weight: 700;
-    color: #00437a;
+    color: #001e38;
 }
 
 .customization-placeholder {
@@ -1638,7 +1644,7 @@ header {
 
 .cart-item-details .item-price {
     font-size: 18px;
-    color: #00437a;
+    color: #001e38;
     font-weight: 700;
     margin-bottom: 10px;
 }
@@ -1745,7 +1751,7 @@ header {
     padding: 15px;
     font-size: 16px;
     margin-top: 10px;
-    background-color: #00437a;
+    background-color: #001e38;
     color: white;
     border: none;
 }
@@ -1764,7 +1770,7 @@ header {
     margin-bottom: 30px;
 }
 #empty-cart-msg .btn-primary {
-    background-color: #00437a;
+    background-color: #001e38;
     color: white;
 }
 #coupon-code:active{
@@ -1911,7 +1917,7 @@ header {
 }
 .toggle-btn.active {
     background-color: #fff;
-    color: #00437a; /* Primary Blue */
+    color: #001e38; /* Primary Blue */
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
@@ -2183,138 +2189,6 @@ header {
     background-color: #d9232d; /* Red */
 }
 
-/* ========================================================== */
-/* --- FINAL REFINED GOLD MINE 10+1 PLAN PAGE STYLES --- */
-/* ========================================================== */
-
-.gold-plan-main { background-color: #fff; }
-.gold-plan-main .container.flex-column { flex-direction: column; align-items: center; }
-
-/* --- V2 Plan Banner Section with Form --- */
-.plan-banner-v2 { background-color: #fdf5f6; padding: 20px 0; }
-.plan-banner-v2 .container { flex-direction: column; align-items: center; }
-.plan-banner-v2 img { max-width: 100%; display: block; }
-.gmp-form { display: flex; gap: 10px; margin-top: -80px; position: relative; z-index: 2; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); align-items: center; }
-.gmp-form input { padding: 12px; border: 1px solid #ccc; border-radius: 4px; font-size: 16px; }
-.gmp-form input[type="email"] { border-color: red; }
-.gmp-form button { background-color: #ef5f6f; color: white; border: none; padding: 12px 30px; font-size: 16px; font-weight: 700; border-radius: 4px; cursor: pointer; }
-
-/* --- "Why Gold Mine Plan?" Section --- */
-.why-gmp { padding: 80px 15px 60px; }
-.why-gmp h2 { font-size: 28px; font-weight: 400; margin-bottom: 40px; text-align: center; }
-.features-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 60px; max-width: 1000px; }
-.feature-item { text-align: center; }
-.feature-item svg { height: 50px; width: 50px; margin-bottom: 15px; }
-.feature-item h3 { margin: 0 0 10px; font-size: 18px; }
-.feature-item p { margin: 0; color: #666; font-size: 14px; line-height: 1.5; }
-
-/* --- Gold Mine Calculator Section --- */
-.gold-mine-calculator { padding: 60px 15px; background-color: #f9f9f9; }
-.calculator-note { border: 1px solid #f2c7c7; background-color: #fdf5f6; padding: 8px 15px; border-radius: 4px; margin-bottom: 30px; font-size: 14px; }
-.gold-mine-calculator h2 { font-size: 28px; font-weight: 400; margin-bottom: 40px; text-align: center; }
-.calculator-panel { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; max-width: 1000px; padding: 30px; background-color: #fff; border-radius: 8px; box-shadow: 0 5px 25px rgba(0,0,0,0.08); }
-.calculator-inputs h4 { font-weight: 400; margin: 0 0 20px; color: #555; }
-.slider-group { display: flex; justify-content: space-between; align-items: center; }
-.range-value { font-weight: 700; font-size: 18px; }
-
-.slider-container { display: flex; align-items: center; gap: 15px; margin: 20px 0; }
-input[type=range] { flex-grow: 1; -webkit-appearance: none; background: #e0e0e0; height: 4px; border-radius: 5px; }
-input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px; width: 20px; border-radius: 50%; background: #00437a; cursor: pointer; }
-.check-btn { background-color: #ef5f6f; color: white; border: none; padding: 8px 20px; border-radius: 4px; font-weight: 700; }
-
-.pie-chart-container { display: flex; justify-content: center; margin-top: 40px; }
-.pie-chart {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background: conic-gradient(var(--c2) 0% var(--p), var(--c1) var(--p) 100%);
-    position: relative;
-    text-align: center;
-}
-.pie-label-discount { position: absolute; top: 50px; left: 120px; color: #000; font-size: 12px; }
-.pie-label-you-pay { position: absolute; top: 120px; left: 40px; color: #000; font-size: 14px; }
-.pie-chart span { font-size: 18px; font-weight: 700; }
-
-/* Results Panel */
-.calculator-results .result-row { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px solid #eee; }
-.result-row p { margin: 0; font-size: 14px; }
-.result-row small { display: block; color: #888; font-size: 12px; }
-.result-row span { font-size: 16px; font-weight: 700; }
-.result-row.legend { font-size: 14px; font-weight: normal; }
-.legend-item { display: flex; align-items: center; gap: 8px; }
-.legend-color { width: 12px; height: 12px; border-radius: 2px; }
-.result-row.total-value span { font-size: 24px; color: #d9232d; }
-.effective-discount { margin-top: 15px; text-align: center; font-size: 14px; padding: 10px; background-color: #e9f7eb; border-radius: 4px; }
-.effective-discount span { font-weight: 700; color: #28a745; }
-
-.early-redemption { margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee; }
-.early-redemption h4 { text-align: center; margin: 0 0 15px; font-weight: 400; font-size: 16px; }
-.redemption-options { display: flex; justify-content: space-around; }
-.redemption-options .option { display: flex; align-items: center; gap: 8px; font-size: 14px; color: #555; }
-.redemption-options .option span { display: block; font-weight: 700; font-size: 16px; color: #000; margin-top: 5px; }
-.redemption-options input[type="radio"] { margin: 0; }
-
-/* --- FINAL REFINED Gold Plan Calculator CSS --- */
-
-/* ... (keep all the previous Gold Plan CSS) ... */
-
-/* REPLACEMENT for .early-redemption styles */
-.early-redemption {
-    margin-top: 15px;
-    padding-top: 15px;
-    border-top: 1px solid #eee;
-    position: relative; /* Crucial for positioning the tooltips */
-}
-.early-redemption h4 { text-align: center; margin: 0 0 15px; font-weight: 400; font-size: 16px; }
-.redemption-options { display: flex; justify-content: space-around; }
-.redemption-options .option {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 14px;
-    color: #555;
-    cursor: pointer;
-}
-.redemption-options .option i {
-    color: #007bff;
-}
-
-/* NEW Tooltip Styles */
-.redemption-tooltip {
-    position: absolute;
-    bottom: 100%; /* Position it above the redemption section */
-    left: 50%;
-    transform: translateX(-50%);
-    width: 320px;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
-    border-radius: 8px;
-    padding: 15px;
-    font-size: 14px;
-    z-index: 10;
-    
-    /* Hidden by default */
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.3s, visibility 0.3s;
-}
-.redemption-tooltip.visible {
-    opacity: 1;
-    visibility: visible;
-}
-.redemption-tooltip p {
-    display: flex;
-    justify-content: space-between;
-    margin: 0 0 10px 0;
-}
-.redemption-tooltip p.buy-worth {
-    font-weight: 700;
-    margin-top: 10px;
-    color: #000;
-}
-
-/* ... (all previous CSS content is here) ... */
 
 /* ========================================================== */
 /* --- FINAL REFINED GOLD MINE 10+1 PLAN PAGE STYLES --- */
@@ -2346,14 +2220,15 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
 .gold-mine-calculator { padding: 60px 15px; background-color: #f9f9f9; }
 .calculator-note { border: 1px solid #f2c7c7; background-color: #fdf5f6; padding: 8px 15px; border-radius: 4px; margin-bottom: 30px; font-size: 14px; }
 .gold-mine-calculator h2 { font-size: 28px; font-weight: 400; margin-bottom: 40px; text-align: center; }
-.calculator-panel { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; max-width: 1000px; padding: 30px; background-color: #fff; border-radius: 8px; box-shadow: 0 5px 25px rgba(0,0,0,0.08); }
-.calculator-inputs h4 { font-weight: 400; margin: 0 0 20px; color: #555; }
+.calculator-panel { display: grid; grid-template-columns: 2fr ; gap: 60px; max-width: 1000px; padding: 30px; background-color: #fff; border-radius: 8px; box-shadow: 0 5px 25px rgba(0,0,0,0.08); }
+.calculator-inputs h4 { font-weight: 400; margin: 0 0 20px; color: #555;}
+.calculator-inputs{display: flex; justify-content: space-between; gap: 2rem;}
 .slider-group { display: flex; justify-content: space-between; align-items: center; }
 .range-value { font-weight: 700; font-size: 18px; }
 
 .slider-container { display: flex; align-items: center; gap: 15px; margin: 20px 0; }
 input[type=range] { flex-grow: 1; -webkit-appearance: none; background: #e0e0e0; height: 4px; border-radius: 5px; }
-input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px; width: 20px; border-radius: 50%; background: #00437a; cursor: pointer; }
+input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px; width: 20px; border-radius: 50%; background: #001e38; cursor: pointer; }
 .check-btn { background-color: #ef5f6f; color: white; border: none; padding: 8px 20px; border-radius: 4px; font-weight: 700; }
 
 .pie-chart-container { display: flex; justify-content: center; margin-top: 40px; }
@@ -2494,7 +2369,7 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
     position: fixed;
     bottom: 30px;
     right: 30px;
-    background-color: #00437a; /* Primary Blue */
+    background-color: #001e38; /* Primary Blue */
     color: white;
     width: 60px;
     height: 60px;
@@ -2545,7 +2420,7 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
 }
 
 .chat-header {
-    background-color: #00437a; /* Primary Blue */
+    background-color: #001e38; /* Primary Blue */
     color: white;
     padding: 15px 20px;
     display: flex;
@@ -2616,8 +2491,8 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
 .chat-option-btn {
     width: 100%;
     background-color: #fff;
-    border: 1px solid #00437a;
-    color: #00437a;
+    border: 1px solid #001e38;
+    color: #001e38;
     padding: 12px;
     border-radius: 8px;
     text-align: left;
@@ -2627,7 +2502,7 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
 }
 
 .chat-option-btn:hover {
-    background-color: #00437a;
+    background-color: #001e38;
     color: #fff;
 }
 
@@ -2711,7 +2586,7 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
 .tags-content a {
     text-decoration: none;
     font-size: 13px;
-    color: #00437a;
+    color: #001e38;
     background-color: #f0f6fa;
     padding: 5px 10px;
     border-radius: 4px;
@@ -2865,7 +2740,7 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
 }
 
 #addons-row span:last-child {
-    color: #00437a; /* Primary blue for add-on cost */
+    color: #001e38; /* Primary blue for add-on cost */
 }
 
 
@@ -2927,7 +2802,7 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
     cursor: pointer;
 }
 .payment-options label:has(input:checked) {
-    border-color: #00437a;
+    border-color: #001e38;
     background-color: #f0f6fa;
 }
 .checkout-summary-column .order-summary {
@@ -3051,7 +2926,7 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
     color: #111827;
 }
 .account-nav-link.active {
-    background-color: #00437a;
+    background-color: #001e38;
     color: #fff;
 }
 #account-logout-btn {
@@ -3108,3 +2983,354 @@ input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 20px
 .order-item { display: flex; align-items: center; gap: 15px; font-size: 14px; }
 .order-item img { width: 60px; height: 60px; border-radius: 4px; object-fit: cover; }
 .order-item.addons i { color: #00437a; font-size: 18px; }
+
+.pie-chart {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /* This line is correct for the proportion: green color from 0% up to --p percentage */
+    background: conic-gradient(var(--c2) 0% var(--p), var(--c1) var(--p) 100%);
+    position: relative;
+    text-align: center;
+}
+
+/* In style.css */
+
+/* ... (Keep existing .early-redemption styles if any, or add these if none) ... */
+.early-redemption {
+    margin-top: 25px; /* Increased margin */
+    padding-top: 20px; /* Increased padding */
+    border-top: 1px solid #eee;
+    /* position: relative; // No longer needed here, moved to wrapper */
+}
+.early-redemption h4 { 
+    text-align: center; 
+    margin: 0 0 20px; /* Increased bottom margin */
+    font-weight: 600; /* Slightly bolder */
+    font-size: 16px; 
+    color: #333; /* Darker color */
+}
+.redemption-options { 
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; /* Vertically align items */
+}
+
+/* NEW or REVISED Tooltip and Option Wrapper Styles */
+.redemption-option-wrapper {
+    position: relative; 
+    display: inline-flex; /* Helps with alignment if needed */
+    flex-direction: column; /* Stack option and tooltip if they were in same wrapper */
+    align-items: center; /* Center the option text and icon */
+}
+
+.redemption-options .option {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: #00437a; /* Make the option text blue */
+    font-weight: 500; /* Slightly bolder */
+    cursor: pointer;
+    padding: 8px 12px; /* Add some padding */
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+.redemption-options .option:hover {
+    background-color: #f0f6fa; /* Light blue hover */
+}
+
+.redemption-options .option i {
+    color: #005a9e; /* Slightly different blue for icon, or same as text */
+    font-size: 16px; /* Make icon a bit larger */
+}
+
+.redemption-tooltip {
+    position: absolute;
+    bottom: calc(100% + 10px); /* Position above the .option, with a 10px gap */
+    left: 50%;
+    transform: translateX(-50%) translateY(5px); /* Initial slight down offset for animation */
+    width: 290px; 
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border-radius: 8px;
+    padding: 15px 20px;
+    font-size: 13px; 
+    line-height: 1.6;
+    z-index: 20; /* Ensure it's above other elements */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s ease-in-out, visibility 0.25s ease-in-out, transform 0.25s ease-in-out;
+    transform-origin: bottom center;
+}
+
+.redemption-tooltip::after { /* The little triangle/arrow */
+    content: "";
+    position: absolute;
+    top: 100%; 
+    left: 50%;
+    margin-left: -8px; 
+    border-width: 8px;
+    border-style: solid;
+    border-color: #ffffff transparent transparent transparent; 
+    filter: drop-shadow(0 1px 0px rgba(0,0,0,0.05)); /* Softer shadow */
+}
+/* Add a border to the arrow to match the tooltip border */
+.redemption-tooltip::before {
+    content: "";
+    position: absolute;
+    top: calc(100% - 1px); /* Position slightly offset for border */
+    left: 50%;
+    margin-left: -9px; /* Slightly larger for border */
+    border-width: 9px;
+    border-style: solid;
+    border-color: #cccccc transparent transparent transparent;
+    z-index: -1; /* Behind the white arrow */
+}
+
+
+.redemption-tooltip.visible { 
+    opacity: 1; 
+    visibility: visible;
+    transform: translateX(-50%) translateY(0); /* Move to final position */
+}
+
+.redemption-tooltip p { 
+    display: flex; 
+    justify-content: space-between; 
+    margin: 0 0 10px 0; 
+    color: #555;
+}
+.redemption-tooltip p:last-child {
+    margin-bottom: 0;
+}
+.redemption-tooltip p span {
+    font-weight: 700;
+    color: #222;
+}
+.redemption-tooltip p.buy-worth { 
+    font-weight: bold; 
+    margin-top: 12px; 
+    padding-top: 10px;
+    border-top: 1px dashed #eee;
+    color: #00437a; 
+    font-size: 14px;
+}
+.redemption-tooltip p.buy-worth span, #total-worth {
+    color: green; 
+}
+
+
+.pie-chart {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: conic-gradient(var(--c2) 0% var(--p), var(--c1) var(--p) 100%); /* Green then Pink */
+    position: relative; /* For positioning the overlay */
+    display: flex; /* To help center if needed, though overlay is absolute */
+    justify-content: center;
+    align-items: center;
+}
+
+/* NEW: Overlay for labels */
+.pie-labels-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* So it doesn't interfere with mouse events on chart if any */
+}
+
+.pie-label {
+    position: absolute;
+    text-align: center;
+    color: #000; /* Or specific colors for each label if desired */
+    font-size: 13px; /* Base font size */
+    line-height: 1.3;
+    transform: translate(-50%, -50%); /* Center the label text block on its x,y coordinates */
+    padding: 5px; /* Some padding around text */
+    /* background-color: rgba(255,255,255,0.3); /* Optional: slight bg for readability */
+    border-radius: 3px;
+}
+
+.pie-label .pie-amount {
+    display: block;
+    font-size: 18px; /* Larger for the amount */
+    font-weight: 700;
+    margin-top: 2px;
+}
+
+
+#pie-label-discount {
+    /* Position towards the top-right (approx. 45 degrees if --p is small) */
+    /* For a small green segment, its angular middle is near the start. */
+    /* These values assume the green segment is relatively small (like 9%) */
+    top: 35%; /* Adjust Y position */
+    left: 78%; /* Adjust X position - more to the right */
+    color: #000; /* Original image has black text */
+}
+#pie-label-discount .pie-amount{
+    color: #000;
+}
+
+
+#pie-label-you-pay {
+    /* Position towards the bottom-left (approx. center of the larger pink segment) */
+    top: 70%;  /* Adjust Y position - lower */
+    left: 35%; /* Adjust X position - more to the left */
+    color: #000; /* Original image has black text */
+}
+#pie-label-you-pay .pie-amount {
+    color: #000;
+}
+/* In style.css */
+
+/* ... (Keep existing .pie-chart and .pie-labels-overlay styles) ... */
+
+.pie-label {
+    position: absolute;
+    text-align: center;
+    color: #000;
+    font-size: 13px;
+    line-height: 1.3;
+    transform: translate(-50%, -50%); /* Center the label text block */
+    padding: 3px; /* Reduced padding slightly */
+    max-width: 80px; /* Constrain width to help fit in smaller segment */
+    word-wrap: break-word; /* Allow text to wrap if needed */
+}
+
+.pie-label .pie-amount {
+    display: block;
+    font-size: 17px; /* Slightly smaller for fitting */
+    font-weight: 700;
+    margin-top: 1px;
+}
+
+
+#pie-label-discount {
+    /* For a small segment at the start of the circle (top-right) */
+    top: 20%;  /* Move it up slightly */
+    left: 60%; /* Move it further to the right, closer to the edge */
+    color: #000; /* Ensure text is visible on green */
+}
+#pie-label-discount .pie-amount {
+    color: #000;
+}
+
+#pie-label-you-pay {
+    /* For the larger pink segment, which starts after green */
+    top: 70%; 
+    left: 35%; 
+    color: #000;
+}
+#pie-label-you-pay .pie-amount {
+    color: #000;
+}
+
+
+
+
+
+/* Styles for Empty Cart Membership Purchase Options */
+.empty-cart-container {
+    width: 100%; /* Make sure it takes full width of its column */
+    /* Other styles like padding, background, border are already inline or can be moved here */
+}
+
+.membership-purchase-options {
+    display: flex;
+    flex-direction: column; /* Stack cards vertically */
+    gap: 20px;
+    align-items: center; /* Center cards horizontally */
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.membership-card {
+    border: 1px solid #e0e0e0;
+    padding: 25px;
+    border-radius: 8px;
+    width: 90%; /* Responsive width */
+    max-width: 450px; /* Max width for larger screens */
+    background-color: #fdfdfd;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.membership-card h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #00437a; /* BlueStone Blue */
+    font-size: 18px;
+}
+
+.membership-card p {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.membership-card .btn.purchase-membership-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 15px;
+}
+.membership-card .btn.purchase-membership-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+    border-color: #ccc;
+}
+
+
+.membership-status-note {
+    display: block;
+    margin-top: 12px;
+    font-size: 13px;
+    color: #666;
+    font-style: italic;
+}
+
+
+/* In style.css (if you want a specific smaller cancel button) */
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875em; /* or specific px like 12px */
+    line-height: 1.5;
+    border-radius: 0.2rem;
+}
+.order-status {
+    font-size: 0.9em;
+}
+
+
+.account-content-section {
+    display: none; /* Hidden by default, JS will show active one */
+}
+.account-content-section.active {
+    display: block;
+}
+
+/* Style for feedback messages in forms (reused from login page if needed) */
+.feedback-message {
+    text-align: center;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    display: none; 
+}
+.feedback-message.error {
+    display: block;
+    color: #d9232d;
+    background-color: #fdeeee;
+}
+.feedback-message.success { /* New style for success */
+    display: block;
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+

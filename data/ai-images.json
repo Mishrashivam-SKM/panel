@@ -1,30 +1,138 @@
 [
-    {
-      "src": "images/ai/platinum-ring-solitaire.jpg",
-      "tags": ["platinum", "ring", "solitaire", "diamond", "engagement"]
-    },
-    {
-      "src": "images/ai/gold-necklace-heavy.jpg",
-      "tags": ["gold", "necklace", "heavy", "bridal", "traditional"]
-    },
-    {
-      "src": "images/ai/rose-gold-earrings-emerald.jpg",
-      "tags": ["rose gold", "earrings", "emerald", "dangle", "modern"]
-    },
-    {
-      "src": "images/ai/gold-ring-ruby.jpg",
-      "tags": ["gold", "ring", "ruby", "cocktail", "bold"]
-    },
-    {
-      "src": "images/ai/silver-bracelet-minimalist.jpg",
-      "tags": ["silver", "bracelet", "minimalist", "modern", "chain"]
-    },
-    {
-      "src": "images/ai/diamond-studs-white-gold.jpg",
-      "tags": ["diamond", "studs", "earrings", "white gold", "classic"]
-    },
-    {
-      "src": "images/ai/default-pendant.jpg",
-      "tags": ["default"]
-    }
-  ]
+  {
+    "src": "https://images.pexels.com/photos/16438530/pexels-photo-16438530.jpeg",
+    "tags": ["platinum", "ring", "solitaire", "diamond", "engagement"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/32515969/pexels-photo-32515969.jpeg",
+    "tags": ["gold", "necklace", "heavy", "bridal", "traditional"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1725033797039-9d7db36e96f2",
+    "tags": ["rose gold", "earrings", "emerald", "dangle", "modern"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1617117811969-97f441511dee",
+    "tags": ["gold", "ring", "ruby", "cocktail", "bold"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1744722093742-aad22c7fa68b",
+    "tags": ["silver", "bracelet", "minimalist", "modern", "chain"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1588444650733-d0767b753fc8",
+    "tags": ["diamond", "studs", "earrings", "white gold", "classic"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1742109244564-0bad09bd0c04",
+    "tags": ["gold", "pendant", "heart", "romantic", "delicate"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1663568675454-ecd65012d8f0",
+    "tags": ["white gold", "bracelet", "tennis", "diamond", "luxury"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/17298688/pexels-photo-17298688.jpeg",
+    "tags": ["emerald", "choker", "necklace", "traditional", "green"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/4974511/pexels-photo-4974511.jpeg",
+    "tags": ["ruby", "ring", "vintage", "red", "ornate"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1570891836868-673ee4818f81",
+    "tags": ["diamond", "tennis", "bracelet", "platinum", "elegant"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338",
+    "tags": ["pearl", "necklace", "classic", "white", "timeless"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/10361481/pexels-photo-10361481.jpeg",
+    "tags": ["sapphire", "ring", "blue", "modern", "geometric"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1611107683227-e9060eccd846",
+    "tags": ["gold", "chain", "bracelet", "delicate", "everyday"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1693212793204-bcea856c75fe",
+    "tags": ["platinum", "diamond", "earrings", "stud", "luxury"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1565817292726-56c96f34355b",
+    "tags": ["rose gold", "wedding", "band", "couple", "matching"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/32498602/pexels-photo-32498602.jpeg",
+    "tags": ["silver", "hoop", "earrings", "minimalist", "contemporary"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed",
+    "tags": ["gold", "bangle", "traditional", "ethnic", "thick"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1634833132582-b8232d09619b",
+    "tags": ["diamond", "pendant", "necklace", "solitaire", "elegant"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1731929315875-3ab60c006577",
+    "tags": ["emerald", "gold", "ring", "vintage", "statement"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1630328699809-a0fdc3f7b2fd",
+    "tags": ["platinum", "engagement", "ring", "classic", "brilliant"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/2849743/pexels-photo-2849743.jpeg",
+    "tags": ["diamond", "stud", "earrings", "small", "everyday"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1727726225026-7730bbcd5062",
+    "tags": ["rose gold", "ring", "wedding", "simple", "elegant"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1617071380442-97e4d5a711e6",
+    "tags": ["silver", "chain", "bracelet", "fine", "delicate"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/32527411/pexels-photo-32527411.jpeg",
+    "tags": ["pearl", "choker", "white", "bridal", "classic"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1667013878762-f6ad2edfbef2",
+    "tags": ["ruby", "vintage", "ring", "antique", "ornate"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/3684783/pexels-photo-3684783.jpeg",
+    "tags": ["sapphire", "blue", "ring", "gold", "classic"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1549048799-bf3b582ee17b",
+    "tags": ["rose gold", "rings", "set", "romantic", "floral"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/32480611/pexels-photo-32480611.jpeg",
+    "tags": ["gold", "pendant", "small", "minimalist", "chain"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1602624019605-e0069c2d34ee",
+    "tags": ["platinum", "diamond", "ring", "luxury", "premium"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1595345705177-ffe090eb0784",
+    "tags": ["pearl", "strand", "necklace", "cultured", "elegant"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/12137701/pexels-photo-12137701.jpeg",
+    "tags": ["tennis", "bracelet", "diamond", "continuous", "sparkle"]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1735480165122-65e06bbbd926",
+    "tags": ["sapphire", "dark", "ring", "modern", "bold"]
+  },
+  {
+    "src": "https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg",
+    "tags": ["default", "diamond", "ring", "classic", "neutral"]
+  }
+]
